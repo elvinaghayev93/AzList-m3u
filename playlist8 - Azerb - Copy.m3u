@@ -1,0 +1,95 @@
+#EXTINF:0 tvg-id="ch1" tvg-name="AZ: AZ TV" tvg-logo="http://hls.gd/images/chIcons/1531.png" tvg-rec="0", AZ: AZ TV
+#EXTGRP:37. Azerbaijan
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:0 tvg-id="ch2" tvg-name="AZ: ARB 24" tvg-logo="http://hls.gd/images/chIcons/1540.png" tvg-rec="0", AZ: ARB 24
+#EXTGRP:37. Azerbaijan
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijc4LjI0LjE4MC44NiIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBLKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTMyLjAuMC4wIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzkwOTY2NzI2LCJqdGkiOiI3ZTUzNTk2Nzc4YzNkOTdlIn0%3D.b%2F4Hm4ek96Krv2L4Do+DfKF0%2FZJ7nd9Krn6OyAz0vog%3D
+#EXTINF:0 tvg-id="ch3" tvg-name="AZ: ATV" tvg-logo="http://hls.gd/images/chIcons/1530.png" tvg-rec="0", AZ: ATV
+#EXTGRP:37. Azerbaijan
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:0 tvg-id="ch4" tvg-name="AZ: Ictimai TV" tvg-logo="http://hls.gd/images/chIcons/1535.png" tvg-rec="0", AZ: Ictimai TV
+#EXTGRP:37. Azerbaijan
+https://live.itv.az/itv.m3u8
+#EXTINF:0 tvg-id="ch5" tvg-name="AZ: Xezer TV" tvg-logo="http://hls.gd/images/chIcons/1539.png" tvg-rec="0", AZ: Xezer TV
+#EXTGRP:37. Azerbaijan
+https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:0 tvg-id="ch6" tvg-name="AZ: CBC Sport HD" tvg-logo="http://hls.gd/images/chIcons/1534.png" tvg-rec="0", AZ: CBC Sport HD
+#EXTGRP:37. Azerbaijan
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:0 tvg-id="ch7" tvg-name="AZ: Idman" tvg-logo="http://hls.gd/images/chIcons/1536.png" tvg-rec="7", AZ: Idman
+#EXTGRP:37. Azerbaijan
+https://str.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8
+#EXTINF:0 tvg-id="ch8" tvg-name="AZ: CBC" tvg-logo="http://hls.gd/images/chIcons/1533.png" tvg-rec="0", AZ: CBC
+#EXTGRP:37. Azerbaijan
+https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1018609769.m3u8?hash=c1e7f72ac9e899e170c529125e6b272d
+#EXTINF:0 tvg-id="ch9" tvg-name="AZ: ARB TV" tvg-logo="http://hls.gd/images/chIcons/1541.png" tvg-rec="0", AZ: ARB T
+#EXTGRP:37. Azerbaijan
+https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1766883755.m3u8?hash=c1e7f72ac9e899e170c529125e6b272d
+#EXTINF:0 tvg-id="ch10" tvg-name="AZ: Baku TV" tvg-logo="http://hls.gd/images/chIcons/1695.png" tvg-rec="0", AZ: Baku TV
+#EXTGRP:37. Azerbaijan
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:0 tvg-id="ch11" tvg-name="AZ: Real TV" tvg-logo="http://hls.gd/images/chIcons/1543.png" tvg-rec="0", AZ: Real TV
+#EXTGRP:37. Azerbaijan
+https://realtv.tvstream.az/hls/stream2/stream.m3u8
+#EXTINF:0 tvg-id="ch12" tvg-name="AZ: Space TV" tvg-logo="http://hls.gd/images/chIcons/1538.png" tvg-rec="0", AZ: Space TV
+#EXTGRP:37. Azerbaijan
+https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w2102425467.m3u8?hash=c1e7f72ac9e899e170c529125e6b272d
+#EXTINF:0 tvg-id="ch13" tvg-name="AZ: Kanal S" tvg-logo="http://hls.gd/images/chIcons/1528.png" tvg-rec="0", AZ: Kanal S
+#EXTGRP:37. Azerbaijan
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:0 tvg-id="ch14" tvg-name="AZ: Medeniyyet TV" tvg-logo="http://hls.gd/images/chIcons/1537.png" tvg-rec="7", AZ: Medeniyyet TV
+#EXTGRP:37. Azerbaijan
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:0 tvg-id="ch15" tvg-name="AZ: Dunya TV" tvg-logo="http://hls.gd/images/chIcons/1542.png" tvg-rec="0", AZ: Dunya TV
+#EXTGRP:37. Azerbaijan
+https://stream.dunyatv.az/live/dunyatv.m3u8
+#EXTINF:0 tvg-id="ch16" tvg-name="AZ: ARB Kepez" tvg-logo="http://hls.gd/images/chIcons/1694.png" tvg-rec="0", AZ: ARB Kepez
+#EXTGRP:37. Azerbaijan
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:0 tvg-id="ch17" tvg-name="AZ: AnewZ" tvg-logo="" tvg-rec="0", AZ: AnewZ
+#EXTGRP:37. Azerbaijan
+https://edge-rs-04.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure-web.smil/chunklist_w1794316834_b3628000_sleng.m3u8
+#EXTINF:0 tvg-id="ch18" tvg-name="AZ: Gunaz TV" tvg-logo="http://hls.gd/images/chIcons/1698.png" tvg-rec="0", AZ: Gunaz TV
+#EXTGRP:37. Azerbaijan
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:0 tvg-id="ch19" tvg-name="AZ: Naxcivan" tvg-logo="http://hls.gd/images/chIcons/1692.png" tvg-rec="0", AZ: Naxcivan
+#EXTGRP:37. Azerbaijan
+https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-id="ch20" tvg-name="AZ: BiznesTV" tvg-logo="" tvg-rec="0", AZ: BiznesTV
+#EXTGRP:37. Azerbaijan
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-id="ch21" tvg-name="AZ: ARB Gunes" tvg-logo="http://hls.gd/images/chIcons/1532.png" tvg-rec="0", AZ: ARB Gunes
+#EXTGRP:37. Azerbaijan
+https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w138637703.m3u8?hash=c1e7f72ac9e899e170c529125e6b272d
+#EXTINF:0 tvg-id="ch22" tvg-name="AZ: AzStar TV" tvg-logo="http://hls.gd/images/chIcons/1699.png" tvg-rec="0", AZ: AzStar TV
+#EXTGRP:37. Azerbaijan
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ch23" tvg-name="AZ: Mahni TV HD" tvg-logo="http://hls.gd/images/chIcons/1699.png" tvg-rec="0", AZ: Mahni TV HD
+#EXTGRP:37. Azerbaijan
+https://mahnitvonline.xyz/mahnitv/index.m3u8
+#EXTINF:0 tvg-id="ch24" tvg-name="AZ: Show Plus" tvg-logo="http://hls.gd/images/chIcons/2557.png" tvg-rec="0", AZ: Show Plus
+#EXTGRP:37. Azerbaijan
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:0 tvg-id="ch25" tvg-name="AZ: Ayaz TV HD" tvg-logo="http://hls.gd/images/chIcons/1701.png" tvg-rec="0", AZ: Ayaz TV HD
+#EXTGRP:37. Azerbaijan
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
