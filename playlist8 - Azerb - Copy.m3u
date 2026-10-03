@@ -11,7 +11,7 @@ https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijc4LjI0LjE
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:0 tvg-id="ch4" tvg-name="AZ: Ictimai TV" tvg-logo="http://hls.gd/images/chIcons/1535.png" tvg-rec="0", AZ: Ictimai TV
 #EXTGRP:Azerbaijan
-https://live.itv.az/itv.m3u8
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:0 tvg-id="ch5" tvg-name="AZ: Xezer TV" tvg-logo="http://hls.gd/images/chIcons/1539.png" tvg-rec="0", AZ: Xezer TV
 #EXTGRP:Azerbaijan
 https://www.xezerxeber.az/stream/index.m3u8
