@@ -14,7 +14,7 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:0 tvg-id="ch5" tvg-name="AZ: Xezer TV" tvg-logo="http://hls.gd/images/chIcons/1539.png" tvg-rec="0", AZ: Xezer TV
 #EXTGRP:Azerbaijan
-https://www.xezerxeber.az/stream/index.m3u8
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:0 tvg-id="ch6" tvg-name="AZ: CBC Sport HD" tvg-logo="http://hls.gd/images/chIcons/1534.png" tvg-rec="0", AZ: CBC Sport HD
 #EXTGRP:Azerbaijan
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
